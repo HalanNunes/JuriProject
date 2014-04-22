@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/JuriProject/src/java/br/com/simpledev/spring/dao/ProcessoDao.java</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/JuriProject/src/java/br/com/simpledev/spring/controller/AdvogadoController.java</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/JuriProject/web/WEB-INF/applicationContext.xml</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/JuriProject/src/java/br/com/simpledev/spring/model/Cliente.java</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/JuriProject/web/WEB-INF/jsp/cliente/novo.jsp</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/JuriProject/src/java/br/com/simpledev/spring/dao/jdbc/JdbcProcessoDao.java</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/JuriProject/web/WEB-INF/jsp/advogado/lista.jsp</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/JuriProject/web/WEB-INF/context-servlet.xml</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/JuriProject/web/WEB-INF/jsp/menu.jsp</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/JuriProject/web/WEB-INF/jsp/advogado/editar.jsp</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/JuriProject/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/JuriProject/web/WEB-INF/jsp/processo/novo.jsp</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/JuriProject/web/WEB-INF/jsp/processo/lista.jsp</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/JuriProject/web/WEB-INF/jsp/cliente/lista.jsp</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/JuriProject/web/WEB-INF/jsp/index.jsp</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/JuriProject/src/java/br/com/simpledev/spring/dao/jdbc/JdbcClienteDao.java</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/JuriProject/web/WEB-INF/dispatcher-servlet.xml</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/JuriProject/web/WEB-INF/jsp/cliente/editar.jsp</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/JuriProject/src/java/br/com/simpledev/spring/model/Processo.java</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/JuriProject/src/java/br/com/simpledev/spring/model/Advogado.java</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/JuriProject/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/JuriProject/src/java/br/com/simpledev/spring/dao/jdbc/JdbcAdvogadoDao.java</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/JuriProject/web/WEB-INF/jsp/processo/editar.jsp</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/JuriProject/src/java/br/com/simpledev/spring/controller/ClienteController.java</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/JuriProject/src/java/br/com/simpledev/spring/controller/ProcessoController.java</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/JuriProject/web/WEB-INF/jsp/advogado/novo.jsp</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/JuriProject/src/java/br/com/simpledev/spring/dao/ClienteDao.java</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/JuriProject/src/java/br/com/simpledev/spring/dao/AdvogadoDao.java</file>
+        </group>
+    </open-files>
+</project-private>
